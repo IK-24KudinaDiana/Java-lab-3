@@ -4,11 +4,11 @@ This project implements the student sorting program (GPA) and a year of study us
 
 ## Content
 
-- [Requirements](##Requirements)
-- [Installation](##Installation)
-- [Startup](##Startup)
-- [Using](##Using)
-- [Examples](##Examples)
+- [Requirements](#Requirements)
+- [Installation](#Installation)
+- [Startup](#Startup)
+- [Using](#Using)
+- [Examples](#Examples)
 
 ## Requirements
 
